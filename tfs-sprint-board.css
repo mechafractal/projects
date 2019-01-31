@@ -1,0 +1,16 @@
+.tag-item[title="Test"] {
+    position: absolute;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: block;
+    bottom: 0;
+    background-color: #08f;
+    padding: 0;
+    margin: 0;
+}
+
+.tag-item[title="Test"] * {
+    display: none;
+}
